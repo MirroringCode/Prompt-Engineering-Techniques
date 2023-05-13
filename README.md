@@ -1,4 +1,4 @@
-# Prompt-Engineering-Techniques / Tecnicas para la Ingeniería de Prompts
+# Prompt Engineering Techniques / Tecnicas para la Ingeniería de Prompts
 **🇪🇸**
 
 Estas son mis notas para las técnicas correctas para enviar propmts eficientes a los modelos de
