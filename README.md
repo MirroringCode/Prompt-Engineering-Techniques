@@ -1,7 +1,7 @@
 # Prompt Engineering Techniques / Tecnicas para la Ingeniería de Prompts
 **🇪🇸**
 
-Estas son mis notas para las técnicas correctas para enviar propmts eficientes a los modelos de
+Estas son mis notas para las técnicas correctas para enviar prompts eficientes a los modelos de
 lenguaje como ChatGPT, BingAI y Bard de google. Cabe a destacar que estos **no son técnicas creadas ni ideadas por mi**,
 sino fueron tomadas de una serie de [vídeos](https://www.youtube.com/playlist?list=PLYio3GBcDKsPP2_zuxEp8eCulgFjI5a3g) de [Aleksandar Popovic](https://www.youtube.com/@aleksandarpopovic2893), probablemente use la Wiki provista por github para hacer las anotaciones.
 
